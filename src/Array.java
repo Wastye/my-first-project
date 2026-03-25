@@ -8,6 +8,8 @@ public class Array {
         //         * think of it as a variable that can store more than 1 value *
 
         String[] fruits = {"apple", "orange", "banana", "coconut"};
+        
+        // System.out.println(fruits[0]);
 
         // fruits[0] = "pineapple";
         // int numOfFruits = fruits.length;
